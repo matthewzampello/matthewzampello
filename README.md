@@ -1,12 +1,13 @@
-Matthew Zampello
-Dallas, TX
-Aerosapce Engineer that should have been a Software engineer
-Golf
-Snowboarding
-Python
-Swift
-SQL
-Newsletter Creator
+Matthew Zampello\n
+Dallas, TX\n
+Aerosapce Engineer that should have been a Software engineer\n
+Interests
+-Golf\n
+-Snowboarding\n
+-Python\n
+-Swift\n
+-SQL\n
+-Newsletter Creator\n
 Not in that order
 
 <!---
