@@ -1,14 +1,5 @@
-Matthew Zampello\n
-Dallas, TX\n
-Aerosapce Engineer that should have been a Software engineer\n
-Interests
--Golf\n
--Snowboarding\n
--Python\n
--Swift\n
--SQL\n
--Newsletter Creator\n
-Not in that order
+Matthew Zampello: 
+Aerosapce Engineer that should have been a Software engineer, python, golf, swift, SQL, snowbaording.
 
 <!---
 matthewzampello/matthewzampello is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
