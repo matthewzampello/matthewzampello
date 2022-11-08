@@ -1,8 +1,8 @@
 @Matthew Zampello
 
 Education -- \
-Aerospace Engineer \n
-Texas A&M University \n
+Aerospace Engineer \
+Texas A&M University \
 
 
 Languages --
