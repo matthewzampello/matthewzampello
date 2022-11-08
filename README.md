@@ -2,7 +2,7 @@
 
 Education -- \
 Aerospace Engineer \
-Texas A&M University \
+Texas A&M University
 
 
 Languages --
