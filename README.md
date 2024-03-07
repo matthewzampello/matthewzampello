@@ -1,7 +1,7 @@
 # Matthew Zampello
 
 ## Education
-B.S Aerospace Engineering
+B.S Aerospace Engineering --\
 Texas A&M University
 
 
