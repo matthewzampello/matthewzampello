@@ -1,20 +1,18 @@
 # Matthew Zampello
+Aircraft Performance Engineer at Southwest Airlines
 
 ## Education
 B.S Aerospace Engineering \
 Texas A&M University
 
-
+## Languages
 Languages --
 * Python
 * Swift
 * SQL
 * html
 
-Software --
-* Tableau
-* Alteryx
-
+## Projects
 
 
 <!---
